@@ -1,6 +1,6 @@
 # Sentiment Analysis on Twitter Data (Major Project)
 
-![alt text](image.png)
+![Image](https://pluspng.com/img-png/twitter-logo-png-twitterbird-twitter-png-logo-1528.png)
 
 ## Overview
 
